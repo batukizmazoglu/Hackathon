@@ -1,6 +1,6 @@
 # Turgutlu Teknoloji Günleri - 5: Görüntü İşleme ile Akıllı Üretim Projesi
 
-**Takım Adı:** [SENİN TAKIM ADIN]
+**Takım Adı:** [3S5B]
 
 Bu proje, Turgutlu Teknoloji Günleri Hackathon'u için geliştirilmiştir. Amaç, medikal göz pedlerinin kalite kontrolünü görüntü işleme teknikleriyle yapmak, sonuçları mobil bir arayüzde sunmak ve süreci basit bir simülasyonla görselleştirmektir.
 
